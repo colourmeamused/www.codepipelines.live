@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+# Pipe Dreams
+## On-demand Build and Deliver Pipelines in the Cloud
 
-You can use the [editor on GitHub](https://github.com/colourmeamused/www.codepipelines.pro/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+We provide builds as a service, [built around code based pipelines](https://jenkins.io/doc/book/pipeline/).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Cloud based CI/CD pipelines - we build, test, and deliver your code for you.
 
-### Markdown
+## Technology
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Pipe Dreams relies on containers - your code is built in an ephemeral environment that only exists while your build is run.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/colourmeamused/www.codepipelines.pro/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
